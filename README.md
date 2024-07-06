@@ -1,6 +1,6 @@
 # Bankist-Website
 
-(https://aminkhojasteh.github.io/Bankist-Website/)
+https://aminkhojasteh.github.io/Bankist-Website/
 
 ### This is one of the projects of this Udemy course
 
